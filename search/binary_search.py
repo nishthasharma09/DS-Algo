@@ -40,3 +40,4 @@ def binary_search_recursive_new(array, start, end, element):
             binary_search_recursive_new(array, middle, end, element)
 
 binary_search_recursive_new(array,0, len(array), 6)
+
